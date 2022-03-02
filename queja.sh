@@ -1,4 +1,4 @@
-ech 'desde donde estas conectandote'
+echo 'desde donde estas conectandote'
 read dispositivo
 if $dispositivo='movil'
 echo 'que pesadez hacerlo desde el movil'
