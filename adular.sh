@@ -1,1 +1,1 @@
-echo 'Hoy se ve usted autenticamente bien!'
+echo $USER, hoy te ves autenticamente bien!
