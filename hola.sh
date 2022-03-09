@@ -1,1 +1,1 @@
-echo "Hola, ¿qué tal?"
+echo "Hola amigos del grupo de TALENT!"
