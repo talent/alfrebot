@@ -1,1 +1,2 @@
-echo "Buenos dias, buenas tardes, y por si no nos vemos, buenas noches."
+echo "¡Soy AlfreBot! 😊👋"
+echo "Buenos dias ☀️ , buenas tardes 🌤️ , y por si no nos vemos, buenas noches 🌙."
